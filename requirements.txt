@@ -55,7 +55,6 @@ matplotlib==3.8.2
 matplotlib-inline==0.1.6
 mdurl==0.1.2
 mysql-connector-python==8.2.0
-mysqlclient==2.2.4
 nest-asyncio==1.5.7
 numpy==1.26.2
 oauthlib==3.2.2
